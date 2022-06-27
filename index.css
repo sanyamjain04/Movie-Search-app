@@ -16,6 +16,10 @@ header {
     justify-content: space-between;
 }
 
+h1{
+    color: antiquewhite;
+}
+
 .search {
     background-color: transparent;
     border-radius: 50px;
